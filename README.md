@@ -10,3 +10,5 @@ I'm excited to connect, collaborate, and create innovative solutions.
 ---
 Feel free to check out my projects and reach out! 🚀  
 [LinkedIn](https://www.linkedin.com/in/jan-mentz-b0aa8b8) | 📧 [Email](mailto:jcmentz@gmail.com)
+
+This the end of the file
